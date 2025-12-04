@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI 감정 탐정 (AI Emotion Detective)",
+  "description": "초등학생을 위한 인공지능 표정 인식 실습 프로그램입니다. 카메라를 통해 표정을 찍으면 AI가 감정을 분석해줍니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
